@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NovaCommerce Hub",
+  "description": "A comprehensive mobile-friendly e-commerce platform with offline persistence and advanced order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
